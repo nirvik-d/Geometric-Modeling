@@ -1,0 +1,171 @@
+﻿  icVector.cpp
+  learnply.cpp
+learnply.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+learnply.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(278): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+learnply.cpp(813): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(857): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(861): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(874): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(883): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1062): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+learnply.cpp(1069): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+learnply.cpp(1071): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+learnply.cpp(1105): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+learnply.cpp(1105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+learnply.cpp(1106): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+learnply.cpp(1106): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+learnply.cpp(1139): warning C4305: '=': truncation from 'double' to 'GLfloat'
+learnply.cpp(1150): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1151): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(1165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(1193): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1228): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(1229): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+learnply.cpp(1295): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1331): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1364): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1365): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1366): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1433): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1467): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1468): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1469): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1503): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1588): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1592): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1596): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1604): warning C4305: 'argument': truncation from 'double' to 'float'
+learnply.cpp(1612): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1634): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1638): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1642): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1650): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1672): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1676): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1680): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1688): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1710): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1714): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1718): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+learnply.cpp(1728): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+learnply.cpp(1739): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+learnply.cpp(1744): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  ply.cpp
+ply.cpp(175): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+ply.cpp(217): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+ply.cpp(221): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+ply.cpp(207): warning C4101: 'elem': unreferenced local variable
+ply.cpp(205): warning C4101: 'i': unreferenced local variable
+ply.cpp(350): warning C4101: 'i': unreferenced local variable
+ply.cpp(352): warning C4101: 'prop': unreferenced local variable
+ply.cpp(476): warning C4101: 'i': unreferenced local variable
+ply.cpp(672): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+ply.cpp(707): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(747): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+ply.cpp(750): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+ply.cpp(754): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+ply.cpp(1080): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(1206): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(1321): warning C4101: 'i': unreferenced local variable
+ply.cpp(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+ply.cpp(1360): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+ply.cpp(1528): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(1427): warning C4101: 'i': unreferenced local variable
+ply.cpp(1562): warning C4101: 'i': unreferenced local variable
+ply.cpp(1714): warning C4101: 'j': unreferenced local variable
+ply.cpp(1714): warning C4101: 'i': unreferenced local variable
+ply.cpp(1926): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+ply.cpp(2035): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+ply.cpp(2036): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+ply.cpp(2040): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+ply.cpp(2041): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+ply.cpp(2117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+ply.cpp(2118): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+ply.cpp(2123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+ply.cpp(2124): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+ply.cpp(2242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+ply.cpp(2270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2339): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2345): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2350): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2328): warning C4101: 'count_type': unreferenced local variable
+ply.cpp(2327): warning C4101: 'prop_type': unreferenced local variable
+ply.cpp(2417): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2531): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2557): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2597): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+ply.cpp(2776): warning C4101: 'i': unreferenced local variable
+ply.cpp(2778): warning C4101: 'prop': unreferenced local variable
+ply.cpp(3061): warning C4101: 'count': unreferenced local variable
+ply.cpp(3060): warning C4101: 'i': unreferenced local variable
+ply.cpp(3270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  tmatrix.cpp
+tmatrix.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tmatrix.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tmatrix.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tmatrix.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  trackball.cpp
+trackball.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(175): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(406): warning C4305: 'argument': truncation from 'double' to 'float'
+trackball.cpp(407): warning C4305: 'argument': truncation from 'double' to 'float'
+trackball.cpp(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(424): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(437): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(438): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(450): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(452): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(455): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(478): warning C4101: 'i': unreferenced local variable
+trackball.cpp(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(547): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+trackball.cpp(548): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  learnply.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 554\Project 1\learnply\.\Release\learnply.exe
+  learnply.vcxproj -> .\Release/learnply.pdb (Full PDB)

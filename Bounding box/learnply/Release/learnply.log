@@ -1,0 +1,32 @@
+﻿  learnply.cpp
+learnply.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+learnply.cpp(299): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+learnply.cpp(834): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(878): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(895): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(904): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1049): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+learnply.cpp(1056): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+learnply.cpp(1058): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+learnply.cpp(1092): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+learnply.cpp(1092): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+learnply.cpp(1093): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+learnply.cpp(1093): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+learnply.cpp(1126): warning C4305: '=': truncation from 'double' to 'GLfloat'
+learnply.cpp(1180): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1282): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1315): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1465): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1482): warning C4101: 'z': unreferenced local variable
+learnply.cpp(1482): warning C4101: 'y': unreferenced local variable
+learnply.cpp(1482): warning C4101: 'x': unreferenced local variable
+learnply.cpp(1549): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1576): warning C4018: '<': signed/unsigned mismatch
+learnply.cpp(1633): warning C4018: '<': signed/unsigned mismatch
+  learnply.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 554\Project 2\learnply\.\Release\learnply.exe
+  learnply.vcxproj -> .\Release/learnply.pdb (Full PDB)

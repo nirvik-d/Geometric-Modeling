@@ -1,0 +1,141 @@
+﻿  icVector.cpp
+  learnply.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(299): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(834): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(878): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(895): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(904): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1049): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1056): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1058): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1092): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1092): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1093): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1093): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1126): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1180): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1282): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1315): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1465): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1482): warning C4101: 'z': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1482): warning C4101: 'y': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1482): warning C4101: 'x': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1549): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1576): warning C4018: '<': signed/unsigned mismatch
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\learnply.cpp(1633): warning C4018: '<': signed/unsigned mismatch
+  ply.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(175): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(217): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(221): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(207): warning C4101: 'elem': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(205): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(350): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(352): warning C4101: 'prop': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(476): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(672): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(707): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(747): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(750): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(754): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1080): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1206): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1321): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1360): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1528): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1427): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1562): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1714): warning C4101: 'j': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1714): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(1926): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2035): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2036): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2040): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2041): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2118): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2124): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2339): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2345): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2350): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2328): warning C4101: 'count_type': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2327): warning C4101: 'prop_type': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2417): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2531): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2557): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2597): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2776): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(2778): warning C4101: 'prop': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(3061): warning C4101: 'count': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(3060): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\ply.cpp(3270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  tmatrix.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\tmatrix.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\tmatrix.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\tmatrix.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\tmatrix.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  trackball.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(175): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(406): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(407): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(424): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(437): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(438): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(450): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(452): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(455): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(478): warning C4101: 'i': unreferenced local variable
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(547): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 554\projects\project 2\learnply\trackball.cpp(548): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+icVector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> C:\Users\rijua\Box Sync\Courses\Fall 2016\CS 554\Projects\Project 2\learnply\.\Debug\learnply.exe
